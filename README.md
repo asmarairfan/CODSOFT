@@ -1,6 +1,10 @@
 # CODSOFT
-Created a personal portfolio website using HTML5 and CSS3 for my internship @CODSOFT.
+The repository contains the tasks I did for my internship @CODSOFT
 
-A personal portfolio website is a website that showcases an individual's work, skills, achievements, and personal brand. It serves as a digital portfolio or online resume, allowing individuals, such as artists, designers, developers, writers, photographers, and professionals from various fields, to display their work and provide information about themselves to potential clients, employers, or collaborators.
+Task 01: Personal Portfolio Website (HTML5 & CSS3)
+This GitHub repository hosts my original personal portfolio website.
+The primary objective of this project was to develop a unique and visually captivating personal portfolio website entirely from scratch. I leveraged modern web development technologies such as HTML5 and CSS3 to design and build this platform.
 
-It solves multiple challenges for individuals by serving as a centralized hub for showcasing their work, building an online presence, and enhancing job prospects. It aids job seekers in standing out, enables freelancers to attract clients, and facilitates networking and collaboration. Additionally, it supports personal branding efforts, allows for creative expression, and provides a platform for tracking progress and archiving accomplishments, making it a valuable tool for personal and professional development.
+Task 02: Airbnb Landing Page Clone (HTML5 & CSS3)
+This GitHub repository contains a faithful clone of the Airbnb.com landing page.
+The project aims to replicate the visual aspects of Airbnb's landing page, showcasing the use of modern web development technologies such as HTML5 and CSS3. By meticulously recreating the layout, design, and interactivity of the original site, this project serves as a learning resource for front-end developers and designers interested in understanding and practicing web development techniques.
